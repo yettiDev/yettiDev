@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=92ebf1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diogo+Muniz+de+Souza;I'm+18+years+old;I+from+Brazil,+SP;I+study+mobile+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yettiDev&show_icons=true&count_private=true&hide_border=true&title_color=92ebf1&icon_color=92ebf1&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Muniz de Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yettiDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yettiDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Muniz de Souza github stats" /> 
+     <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yettiDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yettiDev&bg_color=92ebf1&color=0a0a0a&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
